@@ -23,13 +23,13 @@
 - 🌐 **Responsive Web Design** - https://www.freecodecamp.org/certification/francesco_muntoni/responsive-web-design
 - 🐍 **Scientific Computing with Python** https://www.freecodecamp.org/certification/francesco_muntoni/scientific-computing-with-python-v7
 - 💻 **ICDL Full Standard**
-- 
+- 🇬🇧 **GRADE A in First Certificate in English**
 ---
 
 ## 📫 Contact Me
 - **Email:** francescomuntoni2005@gmail.com
 - **LinkedIn:** www.linkedin.com/in/francesco-muntoni-a3507b257
-- **GitHub:** [github.com/yourusername](LINK)
+- **GitHub:** https://github.com/Muntoni
 
 ---
 *Thanks for visiting my portfolio!*

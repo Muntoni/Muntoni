@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Francesco Muntoni 👋
 
-<!--
-**Muntoni/Muntoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Cybersecurity Specialist** | 🐍 Python Developer | 🌐 Web Designer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 Completed Google Cybersecurity Certificate
+- 💼 Experience automating databases with Python + HTML
+- 🏆 National programming competition finalist at 16
+- 🔐 Interested in cybersecurity, AI, and software development
+- 📍 Based in Italy, Milan
+
+---
+
+## 📂 Projects
+
+
+
+## 📜 Certifications
+- 🛡️ **Google Cybersecurity Certificate** – https://coursera.org/share/a1e290e0db603405e29dc2e231d9bc1d
+- 🤖 **Google AI Essentials** - https://coursera.org/share/f3613dd6eda0402d582bc86ef25164d7
+- 🌐 **Responsive Web Design** - https://www.freecodecamp.org/certification/francesco_muntoni/responsive-web-design
+- 🐍 **Scientific Computing with Python** https://www.freecodecamp.org/certification/francesco_muntoni/scientific-computing-with-python-v7
+- 💻 **ICDL Full Standard**
+- 
+---
+
+## 📫 Contact Me
+- **Email:** francescomuntoni2005@gmail.com
+- **LinkedIn:** www.linkedin.com/in/francesco-muntoni-a3507b257
+- **GitHub:** [github.com/yourusername](LINK)
+
+---
+*Thanks for visiting my portfolio!*
+

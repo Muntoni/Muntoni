@@ -13,7 +13,7 @@
 
 ---
 
-## 📂 Projects
+## 📂🌐 Web Design Projects
 
 ### 🔹 [Wikipedia Viewer](https://codepen.io/Muntoni/full/qByaLXV)
 Search Wikipedia articles through a clean web interface with live API results.  
@@ -71,13 +71,45 @@ Clean survey form layout with multiple input types and validations.
 
 ---
 
+## 📂🐍 Python Projects
+
+### 🔹 [Budget App]()
+A personal finance tool implemented in Python. Allows tracking deposits, withdrawals, and transfers between categories, and generates a visual chart of spending by category.
+*Built with:* Python
+
+---
+
+### 🔹 [Probability Calculator]()
+Simulates random draws from a hat filled with colored balls to estimate probabilities. Uses Monte Carlo simulation to determine the likelihood of drawing a desired combination.
+*Built with:* Python, copy, random
+
+---
+
+### 🔹 [Time Calculator]()
+Adds a duration to a start time and calculates the resulting time, handling AM/PM, day changes, and optional weekdays.
+*Built with:* Python
+
+---
+
+### 🔹 [Arithmetic Arranger]()
+Solves and formats a list of basic arithmetic problems (addition and subtraction) for display. Handles errors like too many problems or numbers with too many digits.
+*Built with:* Python
+
+---
+
+### 🔹 [Polygon Area Calculator]()
+Calculates geometric properties of rectangles and squares, including area, perimeter, diagonal, and how many times one shape fits inside another. Can also draw a text-based representation.
+*Built with:* Python
+
+---
+
 ## 📜 Certifications
 - 🛡️ **Google Cybersecurity Certificate** – [View Certificate](https://coursera.org/share/a1e290e0db603405e29dc2e231d9bc1d)
 - 🤖 **Google AI Essentials** - [View Certificate](https://coursera.org/share/f3613dd6eda0402d582bc86ef25164d7)
 - 🌐 **Responsive Web Design** - [View Certificate](https://www.freecodecamp.org/certification/francesco_muntoni/responsive-web-design)
 - 🐍 **Scientific Computing with Python** - [View Certificate](https://www.freecodecamp.org/certification/francesco_muntoni/scientific-computing-with-python-v7)
 - 💻 **ICDL Full Standard** - [View Certificate](assets/ICDL.pdf)
-- 🇬🇧 **GRADE A in First Certificate in English** - [View Certificate](assets/firstCertificate.pdf)
+- 🇬🇧  **GRADE A in First Certificate in English** - [View Certificate](assets/firstCertificate.pdf)
 ---
 
 ## 📫 Contact Me

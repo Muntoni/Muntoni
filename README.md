@@ -77,7 +77,7 @@ Clean survey form layout with multiple input types and validations.
 - 🌐 **Responsive Web Design** - [View Certificate](https://www.freecodecamp.org/certification/francesco_muntoni/responsive-web-design)
 - 🐍 **Scientific Computing with Python** - [View Certificate](https://www.freecodecamp.org/certification/francesco_muntoni/scientific-computing-with-python-v7)
 - 💻 **ICDL Full Standard** - [View Certificate](assets/ICDL.pdf)
-- 🇬🇧 **GRADE A in First Certificate in English** - [View Certificate]("assets/First Certificate.pdf")
+- 🇬🇧 **GRADE A in First Certificate in English** - [View Certificate](assets/firstCertificate.pdf)
 ---
 
 ## 📫 Contact Me

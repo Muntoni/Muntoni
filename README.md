@@ -104,12 +104,14 @@ Calculates geometric properties of rectangles and squares, including area, perim
 ---
 
 ## 📜 Certifications
+- 🛡️ **TryHackMe Pre Security** - [View Certificate](https://tryhackme.com/certificate/THM-URDYE7BYWJ)
 - 🛡️ **Google Cybersecurity Certificate** – [View Certificate](https://coursera.org/share/a1e290e0db603405e29dc2e231d9bc1d)
 - 🤖 **Google AI Essentials** - [View Certificate](https://coursera.org/share/f3613dd6eda0402d582bc86ef25164d7)
 - 🌐 **Responsive Web Design** - [View Certificate](https://www.freecodecamp.org/certification/francesco_muntoni/responsive-web-design)
 - 🐍 **Scientific Computing with Python** - [View Certificate](https://www.freecodecamp.org/certification/francesco_muntoni/scientific-computing-with-python-v7)
 - 💻 **ICDL Full Standard** - [View Certificate](assets/ICDL.pdf)
-- 🇬🇧  **GRADE A in First Certificate in English** - [View Certificate](assets/firstCertificate.pdf)
+- 🇬🇧  **LEVEL C1 in First Certificate in English** - [View Certificate](assets/firstCertificate.pdf)
+- 
 ---
 
 ## 📫 Contact Me

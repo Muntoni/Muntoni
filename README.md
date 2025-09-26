@@ -111,7 +111,7 @@ Calculates geometric properties of rectangles and squares, including area, perim
 - 🐍 **Scientific Computing with Python** - [View Certificate](https://www.freecodecamp.org/certification/francesco_muntoni/scientific-computing-with-python-v7)
 - 💻 **ICDL Full Standard** - [View Certificate](assets/ICDL.pdf)
 - 🇬🇧  **LEVEL C1 in First Certificate in English** - [View Certificate](assets/firstCertificate.pdf)
-- 
+- </> **the Italian Computing Olympiad** - [View Certificate](assets/Olimpiadi_informatica.pdf)
 ---
 
 ## 📫 Contact Me

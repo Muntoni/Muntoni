@@ -105,6 +105,7 @@ Calculates geometric properties of rectangles and squares, including area, perim
 
 ## 📜 Certifications
 - 🛡️ **TryHackMe Pre Security** - [View Certificate](https://tryhackme.com/certificate/THM-URDYE7BYWJ)
+- 🛡️ **TryHackMe SOC Analyst Level 1** - [View Certificate](https://tryhackme.com/certificate/THM-KZJO6NH6VT)
 - 🛡️ **Google Cybersecurity Certificate** – [View Certificate](https://coursera.org/share/a1e290e0db603405e29dc2e231d9bc1d)
 - 🤖 **Google AI Essentials** - [View Certificate](https://coursera.org/share/f3613dd6eda0402d582bc86ef25164d7)
 - 🌐 **Responsive Web Design** - [View Certificate](https://www.freecodecamp.org/certification/francesco_muntoni/responsive-web-design)

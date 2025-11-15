@@ -1,10 +1,11 @@
 # Hi, I'm Francesco Muntoni 👋
 
-💻 **Aspiring Cybersecurity Specialist** | 🐍 Python Developer | 🌐 Web Designer
+💻 **SOC Analyst T1** | 🐍 Python Developer | 🌐 Web Designer
 
 ---
 
 ## 🚀 About Me
+- 🛡️ Currentrly working as a  Cybersecurity Analyst
 - 🎓 Completed Google Cybersecurity Certificate
 - 💼 Experience automating databases with Python + HTML
 - 🏆 National programming competition finalist at 16
@@ -106,12 +107,15 @@ Calculates geometric properties of rectangles and squares, including area, perim
 ## 📜 Certifications
 - 🛡️ **TryHackMe Pre Security** - [View Certificate](https://tryhackme.com/certificate/THM-URDYE7BYWJ)
 - 🛡️ **TryHackMe SOC Analyst Level 1** - [View Certificate](https://tryhackme.com/certificate/THM-KZJO6NH6VT)
+- 🛡️ **TryHackMe Jr Penetration Tester** - [View Certificate](https://tryhackme.com/certificate/THM-23J2KGHCAH)
 - 🛡️ **Google Cybersecurity Certificate** – [View Certificate](https://coursera.org/share/a1e290e0db603405e29dc2e231d9bc1d)
 - 🤖 **Google AI Essentials** - [View Certificate](https://coursera.org/share/f3613dd6eda0402d582bc86ef25164d7)
 - 🌐 **Responsive Web Design** - [View Certificate](https://www.freecodecamp.org/certification/francesco_muntoni/responsive-web-design)
 - 🐍 **Scientific Computing with Python** - [View Certificate](https://www.freecodecamp.org/certification/francesco_muntoni/scientific-computing-with-python-v7)
+- 💻 **Google Cloud Google Security Operations - Fundamentals** - [View Certificate](https://www.skills.google/public_profiles/cfcefac5-ca6f-4f6d-bcbc-3be7eba95423/badges/19225996)
+- 💻 **Google Cloud Chronicle SOAR Fundamentals** - [View Certificate](https://www.skills.google/public_profiles/cfcefac5-ca6f-4f6d-bcbc-3be7eba95423/badges/19355320)
 - 💻 **ICDL Full Standard** - [View Certificate](assets/ICDL.pdf)
-- 🇬🇧  **LEVEL C1 in First Certificate in English** - [View Certificate](assets/firstCertificate.pdf)
+- 🇬🇧  **LEVEL C1 Cambridge Certificate in English** - [View Certificate](assets/firstCertificate.pdf)
 - </> **the Italian Computing Olympiad** - [View Certificate](assets/Olimpiadi_informatica.pdf)
 ---
 

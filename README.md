@@ -105,6 +105,11 @@ Calculates geometric properties of rectangles and squares, including area, perim
 ---
 
 ## 📜 Certifications
+- 🛡️ **Microsoft Certified: Identity and Access Administrator Associate** - [View Certificate](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flearn.microsoft.com%2Fapi%2Fcredentials%2Fshare%2Fen-us%2FFrancescoMuntoni-5519%2FA5A330CBBBA10FF0%3FsharingId&urlhash=EdKB&mt=Ip71e4tTDHVbZAfOcNEvkCakWQOqFyxxY8ZGVuM-sc-OHR0YZWjg23rxLxyPpHCiqiIpoRYv8c-AowRiig7qk7uxV4ju&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BAT2%2BPvoUSt%2BZWdF2EyxAAg%3D%3D)
+- 🛡️ **Ermetix Technical Specialist Certification** - [View Certificate](assets/Ermetix_Technical_Specialist.pdf)
+- 🛡️ **EP01 - Barracuda Email Protection** - [View Certificate](assets/EP01-Barracuda_Email_Protection-Foundation.pdf)
+- 🛡️ **Armis Centrix Tech 201** - [View Certificate](assets/Armis_Centrix_Tech_201.pdf)
+- 🛡️ **Certified ESET Managed Client Security Specialist** - [View Certificate](assets/Certified_ESET_Managed_Client_Security_Specialist.pdf)
 - 🛡️ **Rapid7 Technical Sales Certification InsightIDR Product** - [View Certificate](https://verify.skilljar.com/c/aed9pspntpta)
 - 🛡️ **TryHackMe Pre Security** - [View Certificate](https://tryhackme.com/certificate/THM-URDYE7BYWJ)
 - 🛡️ **TryHackMe SOC Analyst Level 1** - [View Certificate](https://tryhackme.com/certificate/THM-KZJO6NH6VT)
